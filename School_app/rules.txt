@@ -1,0 +1,4 @@
+.TO slect the sunject we use combobox
+.TO show ALL student we use listbox and give the roll no of the student according to the student entery marks     
+.first tab show the all sudent and second tab show the entrey box to take the marks of the student and thired tab show the result the student by it rool no 
+.To entery a roll o no we can use the spinbox
